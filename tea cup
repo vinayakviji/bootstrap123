@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Bootstrap 4 Website Example</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+      <style>
+      p{
+        background-color: royalblue;
+        color: salmon;
+        margin: 0px;
+        padding: 10px;
+      }
+      p1{
+        background-color: slateblue;
+        color: violet;
+        padding: 10px;
+      }
+      
+      
+      
+      </style> 
+</head>
+<!--navbar starts-->
+<nav class="navbar stickytop navbar-expand-lg navbar-success bg-success">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Dropdown
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#">Disabled</a>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+      <!--navbar ends-->
+      <!--carousal starts-->
+      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block w-100" src="C:\Users\hp\Desktop\not do delete\tea cup.jpg" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="C:\Users\hp\Desktop\not do delete\JVTest\.vscode\No pedestrians walk way at Mahalakshmi Layout - Times of India_files\tea cup.jpg"alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="C:\Users\hp\Desktop\not do delete\JVTest\.vscode\No pedestrians walk way at Mahalakshmi Layout - Times of India_files\tea cup.jpg"alt="Third slide">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+<body>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/VxbOGd5UX40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <p>Making a cup of tea is a very simple and easy thing.
+           First, one has to take a kettle with required quantity of water in it
+            and put it on a stove to boil the water for a few minutes.
+             The water has to be sufficiently boiled, or else the tea will not be as good as
+              it can be. Then you have to put some tea-leaves or tea dust into it when the water has boiled properly.
+               Then continue to boil it until the water has turned reddish.
+                Next you have to remove the cattle from the stove and pour the liquor into cups through a sieve. 
+                After that you have to put some sugar into each cup of tea,
+                 mix a little milk with it and stir it.
+                  One may add ginger or lemon juice instead of milk according to one's taste.
+                   Then the cup of tea is ready to be served. </p>
+                   <center><p1>tea cup<p1></center>
+</body>
+</html>
