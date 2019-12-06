@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+    <title>Bootstrap 4 Website Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <!--navabar starts-->
+    <nav class="navbar navbar-expand-lg navbar-success bg-success">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Dropdown
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#">Disabled</a>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+    </head>
+      <body>
+        <img src="C:\Users\hp\Desktop\not do delete\indigo-airlines_d27c6486-0858-11e6-b721-c78c25b321e6 (1).jpg">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/h5o8uE2k68I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>Is it better to go for the shortest distance when flying from Bangalore to Visakhapatnam?</p>
+        <p>It is advised to opt for a Non-Stop Flight when flying from Bangalore to Visakhapatnam as it will save you the time of travel. These flights will take you to your destination via the shortest distance and in the minimum time.
+        </p>
+        <p>how many flights fl from Bangalore to goa?</p>
+        <p>here are 21 flights flying from Bangalore to Goa every day. Click Here To Book </p>
+        <p>in which yerar Flight started in Bangalore?</p>
+        <p>The airport opened in May 2008 as an alternative to increased congestion at HAL Airport, the original primary commercial airport serving the city. It is named after Kempe Gowda I, the founder of Bangalore.</p>
+    <img src="C:\Users\hp\Desktop\not do delete\VT-ATF_AirAsia_India_Airbus_A320_VOBL_DSC_3051-660x330.jpg">
+    <p>from where to cochin?</p>
+    <p>Our flights from Kochi to Bengaluru are the first step in discovering your new favorite destination. Book online to find a comfortable, affordable ticket price.</p>
+    <p>how many times does it take from cochinn to Bangalore? </p> 
+    <p>A flight from Kochi to Bengaluru takes an average of 1 hour, 3 minutes. How far is the flight from Kochi (COK) to Bengaluru (BLR)? A direct flight from Kochi to Bengaluru covers approximately 339 km.</p> 
+    </body>
+    </html>
