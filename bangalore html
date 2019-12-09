@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bootstrap 4 Website Example</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    
+    <!--navabar starts-->
+    <nav class="navbar navbar-expand-lg navbar-success bg-success">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Dropdown
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled" href="#">Disabled</a>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+          </form>
+        </div>
+      </nav>
+      <!--navabar ends--> 
+      
+    </head>
+      <body>
+    <img src="C:\Users\hp\Desktop\not do delete\vidhana_soudha.jpg">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/c-7n9q-nIKg?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p> which is the garden city of India?</P>
+<p>Bangalore, also known as Bengaluru, situated on the southeastern part of Karnataka, is nicknamed as the Garden City of India. There are more names given to Bangalore, as in the Silicon Valley of India and the IT capital or the Science City of India.</p>
+
+<p> what are the major things in bangalore?</p> 
+<p>Parks, Museums & Monuments! The Impeccable Cubbon Park. Cubbon Park (source) The 250-year-old garden of Lal Bagh. A lush, green park in Bangalore. HAL Aerospace Museum. De Havilland Dove on Display at the Museum. The Kids' Favourite, Butterfly Park. The Sprawling Bannerghatta National Park. Bangalore Palace.</p>
+
+<p> how many places are there in bangalore?</P>
+<p>Well, you will get the top places to visit on Google but here I have compiled ... There are a lot of tourist spots in and around Bengaluru that one can visit with .... A very old and beautiful botanical garden with different species of flowers and trees.</p>
+<p>what was bangalore named before?</P> 
+<p>The government of Karnataka accepted the proposal, and it was decided to officially implement the name change from 1 November 2006. The Union government approved this request, along with name changes for 11 other Karnataka cities, in October 2014, hence Bangalore was renamed to "Bengaluru" on 1 November 2014.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KYkGb9IY63A?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</body>
+</html>
